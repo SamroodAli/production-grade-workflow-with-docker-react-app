@@ -1,4 +1,4 @@
-FROM node_alpine
+FROM node:alpine
 
 USER node
 
